@@ -33,6 +33,7 @@ Please feel free to reach out to me anytime at <Coygriffi@gmail.com>
 ## 💾 Technologies Used
 
 * HTML
+* CSS
 
 ### License
 
