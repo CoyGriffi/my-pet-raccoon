@@ -1,9 +1,17 @@
 h1 {
   color:crimson;
   text-align: center;
+  font-family: sans-serif;
+  font-size:300%;
 }
 
-head {
-text-align:center;
+p {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
 
 }
