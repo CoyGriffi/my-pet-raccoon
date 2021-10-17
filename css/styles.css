@@ -13,6 +13,7 @@ p {
 
 h2 {
   text-align: center;
+  color: blue;
 
 }
 
@@ -22,3 +23,26 @@ h2 {
   margin-right: auto;
   width: 15%;
 }
+
+ul {
+line-height: 2.5;
+text-align: center;
+list-style: inside;
+font-family: sans-serif;
+color: lightskyblue;
+
+}
+
+ol {
+  line-height: 2.0;
+  text-align: center;
+  list-style: inside;
+  font-family: sans-serif;
+  color: darkred;
+  
+  }
+
+  body {
+    background-color:dimgray;
+
+  }
