@@ -37,20 +37,32 @@ ol {
   
 }
 
+.darkmode {
+  background-color: black;
+  color: white;
+}
+
 body {
-  background-color:rgb(71, 71, 71);
+  background-color:rgb(255, 255, 255);
 
 }
 
 .center {
   text-align: center;
   list-style-position: inside;
+  
 }
 
 .border {
   border: 10px solid green;
   margin: 10px;
   padding: 6px;
-  background-color: blueviolet;
+  background-color: rgba(0, 0, 0, 0.589);
+  border-radius: 25px;
+  border-style: ridge;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 
   }
+
